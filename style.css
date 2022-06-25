@@ -1,0 +1,24 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #BC8F8F;
+}
+
+#galery {
+  background-color: #BC8F8F;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  background-color: #BC8F8F;
+}
